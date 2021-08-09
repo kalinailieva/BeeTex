@@ -1,0 +1,15 @@
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\BeeTex.Data.deps.json
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\BeeTex.Data.runtimeconfig.json
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\BeeTex.Data.runtimeconfig.dev.json
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\BeeTex.Data.dll
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\ref\BeeTex.Data.dll
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\bin\Debug\net5.0\BeeTex.Data.pdb
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.AssemblyInfoInputs.cache
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.AssemblyInfo.cs
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.dll
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\ref\BeeTex.Data.dll
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.pdb
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.genruntimeconfig.cache
+D:\SoftUni\BeeTex\BeeTex.Web\BeeTex.Data\obj\Debug\net5.0\BeeTex.Data.csprojAssemblyReference.cache
