@@ -1,5 +1,6 @@
+using BeeTex.Data;
 using BeeTex.Data.Entity;
-using BeeTex.Web.Data;
+
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;

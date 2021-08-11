@@ -9,7 +9,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Text;
 
-namespace BeeTex.Web.Data
+namespace BeeTex.Data
 {
 	public class AppDbContext : IdentityDbContext<UserEntity>
 	{

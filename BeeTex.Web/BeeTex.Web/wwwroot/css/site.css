@@ -147,4 +147,18 @@ jumbotron p-3 p-md-5 text-white rounded bg-dark home-header {
     margin-left:20%;
 }
 
+.container-fixed {
+    z-index: 1001;
+    width: 100%;
+    position: fixed;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    top: 0;
+}
+
+.logo-image{
+    max-width:40px;
+    margin-right: 20px;
+}
+
 
